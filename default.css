@@ -1,0 +1,10 @@
+img {
+    border: 5px solid #555;
+    margin-right: 10px;
+  }
+
+.description {
+    font-family: 'Helvetica';
+    font-size: 10;
+    padding-top: 10px;
+}
